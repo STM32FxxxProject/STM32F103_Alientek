@@ -15,6 +15,7 @@ What you will find here:
 	- Arduino UNO and various types of sensors or modules
 	- Alientek STM32F103ZET6 Hardware ver 3.4 (documentation, sources, schemes, photos ....)
 	- ARMJISHU STM32F103ZET6 Hardware ver 1.1 (documentation, sources, schemes, photos ....)
+	- ARMFLY STM32F407IGT6 Hardware ver 5 (documentation, sources, schemes, photos ....)
 	- Prechin PZ6806D STM32F103ZET6 Hardware ver 1.0 (documentation, sources, schemes, photos ....)
 	- YS-F1PRO STM32F103ZET6 Hardware ver 1.0 (documentation, sources, schemes, photos ...)
 	- YS-F4PRO STM32F407IGT Hardware ver 1.0 (documentation, sources, schemes, photos ...)
@@ -52,6 +53,7 @@ Ce veti gasi aici:
 	- Arduino UNO si diferite tipuri de senzori sau module
 	- Alientek STM32F103ZET6 Hardware ver 3.4 (documentatie , surse , scheme, fotografii....)
 	- ARMJISHU STM32F103ZET6 Hardware ver 1.1 (documentatie , surse , scheme, fotografii....)
+	- ARMFLY STM32F407IGT6 Hardware ver 5 (documentatie , surse , scheme, fotografii ....)
 	- Prechin PZ6806D STM32F103ZET6 Hardware ver 1.0 (documentatie , surse , scheme, fotografii....)
 	- YS-F1PRO STM32F103ZET6 Hardware ver 1.0 (documentatie , surse , scheme, fotografii....)
 	- YS-F4PRO STM32F407IGT  Hardware ver 1.0 (documentatie , surse , scheme, fotografii....)
